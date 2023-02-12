@@ -1,14 +1,14 @@
 ###  Sou o Luan Reinhold!
- - Aprendendo desenvolvimento web.
- - Aluno do Instituto Social Nossa Senhora de Fátima, Técnico de informática.
-  
+ - Estudando com o objetivo de melhorar cada vez mais como desenvolvedor fullstack.
+ - Formação técnica em tecnolgia e cursando ánalise e desenvolvimento de sistemas.
+ - A procura de estágio/trainee
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanreinhold&layout=compact&langs_count=7&theme=dark"/>
 
 
  
 
-  ## Tecnologias usadas no cotidiano :
+  ## Tecnologias que possuo conhecimento :
  <div style="display: inline_block">
   <img align="center" alt="Luan-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Luan-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
