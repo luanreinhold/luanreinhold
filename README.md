@@ -1,7 +1,6 @@
 ###  Sou o Luan Reinhold!
  - Estudando com o objetivo de melhorar cada vez mais como desenvolvedor fullstack.
  - Formação técnica em tecnolgia e cursando ánalise e desenvolvimento de sistemas.
- - A procura de estágio/trainee
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanreinhold&layout=compact&langs_count=7&theme=dark"/>
 
