@@ -8,11 +8,11 @@
  
 
   ## Linguagens e tecnologias que possuo conhecimento:
-  Typescript, Javascript
-  Sass, TailWind
-  Lit Element, React, Svelte
-  MySQL, MongoDB
-  Node
+  - Typescript, Javascript
+  - Sass, TailWind
+  - Lit Element, React, Svelte
+  - MySQL, MongoDB
+  - Node
   
 
  
