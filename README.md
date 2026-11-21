@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&duration=2500&color=60A5FA&width=650&height=32&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Luan+Reinhold+%7C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&duration=2500&color=60A5FA&width=650&height=32&vCenter=true&lines=Hi%2C+I%27m+Luan+Reinhold+%7C+Software+Engineer)](https://git.io/typing-svg)
 <hr>
-Atuo como engenheiro fullstack em uma plataforma de folha de pagamento e BPO, com foco em arquitetura e qualidade de software. Conduzo a modernização do sistema legado, defino padrões técnicos adotados pelo time e desenvolvo ferramentas internas que automatizam processos e reduzem retrabalho entre as equipes.
+I work as a fullstack engineer on a payroll and BPO platform, focusing on software architecture and quality. I lead the modernization of the legacy system, define technical standards adopted by the team, and build internal tools that automate processes and reduce rework across teams.
 
-#### Áreas de atuação
+#### Areas of expertise
 
-- Arquitetura de software e modernização de sistemas legados
-- Desenvolvimento de APIs e componentes reutilizáveis
-- Automação de processos e qualidade de código
-- Definição de padrões técnicos e mentoria de equipes
+- Software architecture and legacy system modernization
+- API and reusable component development
+- Process automation and code quality
+- Technical standards definition and team mentoring
 
-#### Tecnologias
+#### Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -25,7 +25,7 @@ Atuo como engenheiro fullstack em uma plataforma de folha de pagamento e BPO, co
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
-#### Bora conversar?
+#### Let's talk!
 
 <a href="https://www.linkedin.com/in/luanreinhold"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:luanreinhold@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
